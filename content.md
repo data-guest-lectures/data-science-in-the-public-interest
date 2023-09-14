@@ -151,8 +151,7 @@ Analysis: https://mathbabe.org/2016/10/24/what-you-tweet-could-cost-you/
 + Focus on the good
 <br>
 <br>
-[![img-center-80](images/nola2.png)](http://www.nola.com/politics/index.ssf/2015/10/new_orleans_fire_department.html 
-)
+[![img-center-80](images/nola2.png)](http://www.nola.com/politics/index.ssf/2015/10/new_orleans_fire_department.html)
 
 ---
 
